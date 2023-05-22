@@ -7,6 +7,7 @@
             MyHashTable HashTable=new MyHashTable();
             foreach(string tmp in Sentence)
                 HashTable.Add(tmp);
+            HashTable.Remove("remove");
             HashTable.Display();
         }
     }
