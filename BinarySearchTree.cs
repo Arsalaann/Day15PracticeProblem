@@ -7,18 +7,39 @@ namespace Day15Solutions{
 
         public BinarySearchTree(int data){
             this.data=data;
-            left=right=null;
+            this.left=this.right=null;
         }
 
         public void Add(int data){
-            BinarySearchTree root=this;
+            BinarySearchTree prev=null,root=this;
             while(root!=null){
+                if(root.data==data)
+                    return;
+                prev=root;
                 if(root.data>data)
                     root=root.left;
                 else
                     root=root.right;
             }
-            root=new BinarySearchTree(data);
+            if(prev.data>data)
+                prev.left=new BinarySearchTree(data);
+            else
+                prev.right=new BinarySearchTree(data);
+        }
+
+        public void Search(int data){
+            BinarySearchTree root=this;
+            while(root!=null){
+                if(root.data==data){
+                    Console.WriteLine("Found : " + root.data);
+                    return;
+                }
+                if(root.data>data)
+                    root=root.left;
+                else
+                    root=root.right;
+            }
+            Console.WriteLine("Not found!");
         }
     }
 }

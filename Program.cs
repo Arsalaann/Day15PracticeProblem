@@ -15,6 +15,8 @@
             Tree.Add(16);
             Tree.Add(63);
             Tree.Add(67);
+
+            Tree.Search(63);
         }
     }
 }
