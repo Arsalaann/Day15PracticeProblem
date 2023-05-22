@@ -1,0 +1,15 @@
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.csproj.AssemblyReference.cache
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.AssemblyInfoInputs.cache
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.AssemblyInfo.cs
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.csproj.CoreCompileInputs.cache
+/home/luser/pgming/Day15Solutions/bin/Debug/net6.0/Day15Solutions
+/home/luser/pgming/Day15Solutions/bin/Debug/net6.0/Day15Solutions.deps.json
+/home/luser/pgming/Day15Solutions/bin/Debug/net6.0/Day15Solutions.runtimeconfig.json
+/home/luser/pgming/Day15Solutions/bin/Debug/net6.0/Day15Solutions.dll
+/home/luser/pgming/Day15Solutions/bin/Debug/net6.0/ref/Day15Solutions.dll
+/home/luser/pgming/Day15Solutions/bin/Debug/net6.0/Day15Solutions.pdb
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.dll
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/ref/Day15Solutions.dll
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.pdb
+/home/luser/pgming/Day15Solutions/obj/Debug/net6.0/Day15Solutions.genruntimeconfig.cache
